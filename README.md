@@ -5,11 +5,11 @@ A luxury, high-converting static website for **Pearl-Lite Integrated Services Li
 ## Project Structure
 
 ```
-├── index.html      # Main HTML file
-├── style.css       # All styles and responsive layout
-├── main.js         # Animations, interactions, form handling
-├── logo.png        # Company logo
-└── README.md
+ index.html      # Main HTML file
+ style.css       # All styles and responsive layout
+ main.js         # Animations, interactions, form handling
+ logo.png        # Company logo
+ README.md
 ```
 
 ## Sections
@@ -51,7 +51,7 @@ A luxury, high-converting static website for **Pearl-Lite Integrated Services Li
 1 Pearl-Lite Industries Avenue, Off No. 12 Ibowon Road,
 Iragushi, Eredo LGA, Epe, Lagos State, Nigeria
 
-📞 0816 111 5596
+ 0816 111 5596
 
 **Services:** Farm Equipment Supply · Cassava & Gari Processing · Fish Smoking · Agro-Product Export · Spice & Cash Crop Sourcing · Personal Shopper
 
